@@ -1,0 +1,8 @@
+node_modules
+build
+dist
+.astro
+.next
+.env
+
+.nx/cache
