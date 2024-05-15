@@ -1,6 +1,8 @@
 import cors from 'cors'
 import express from 'express'
 
+const a = 0
+
 const PORT = 8080
 
 const app = express()
